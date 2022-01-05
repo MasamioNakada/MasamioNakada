@@ -35,7 +35,7 @@ I am also a self-taught beginner data scientist. I am passionate about Classical
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-- 🌱 I’m currently learning [Platzi](https://platzi.com/) [CodiGo](https://codigo.edu.pe/)
+- 🌱 I’m currently learning [Platzi](https://platzi.com/), [CodiGo](https://codigo.edu.pe/)
 - 💼 any freelance work? do reach, [email](mailto:nakada2130@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 - 📫 How to reach me: [@MasamioNakada](https://www.instagram.com/masamionakada/)
