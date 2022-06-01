@@ -33,6 +33,15 @@ Machine Learning , Cloud Computing , Business Intelillence are some of my areas 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+
+
+- ⚙️ More Technologies and Tools: `.fortran`, `.html`, `.css`, `.pandas`, `.typescript`, `.scilab`
+- 🌱 I’m currently learning , [Henry](https://www.soyhenry.com/carrera-data-science),[Platzi](https://platzi.com/), [CodiGo](https://codigo.edu.pe/)
+- 💼 any freelance work? do reach, [email](mailto:nakada2130@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
+- 📫 How to reach me: [@MasamioNakada](https://www.instagram.com/masamionakada/)
+- ⚡ Fun fact: Listen Tech-House Music, Mobile Legends 
+<!---
 ``` python3
 my_skills = {
     "principal_lenguages": ["Python", "Js", "Go", "bash"],
@@ -42,11 +51,5 @@ my_skills = {
     "complemts": ["fast-api", "aws", "google-cloud", "R", "no-linear-dynamics"],
 }
 ```
-
-- ⚙️ More Technologies and Tools: `.fortran`, `.html`, `.css`, `.pandas`, `.typescript`, `.scilab`
-- 🌱 I’m currently learning , [Henry](https://www.soyhenry.com/carrera-data-science),[Platzi](https://platzi.com/), [CodiGo](https://codigo.edu.pe/)
-- 💼 any freelance work? do reach, [email](mailto:nakada2130@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
-- 📫 How to reach me: [@MasamioNakada](https://www.instagram.com/masamionakada/)
-- ⚡ Fun fact: Listen Tech-House Music, Mobile Legends 
+-->
 
